@@ -1,6 +1,8 @@
 # OPSC6311-PART-3-APP-BUDGETWISE-
 # BudgetWise – Personal Budget Tracker (Final POE)
 
+(note project file is in brand called budgewise part 3)
+
 ## Group Members
 - Kun’we Tyrone Mdaka (ST10262122)
 - Oratile Maungwa (ST10443081)
