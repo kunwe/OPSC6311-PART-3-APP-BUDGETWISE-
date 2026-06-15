@@ -30,6 +30,3 @@ Users can generate a professional PDF report of their transactions for any selec
 ## Automated Testing
 Functional logic is verified through JUnit tests located in `app/src/test`. These tests ensure that budget calculations and goal-tracking logic remain accurate during development.
 
-## Demonstration Video
-[LINK TO YOUR UNLISTED YOUTUBE VIDEO HERE]
-*(Note: Please record your demo on a physical phone as per rubric requirements.)*
