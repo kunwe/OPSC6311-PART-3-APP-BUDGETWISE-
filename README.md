@@ -195,7 +195,7 @@ Note: The app has been tested on a physical phone, not only on an emulator.
 
 ## 11. video
 
-Youtube video link: youtube.com/watch?v=7OgdQCrSjDw&feature=youtu.be 
+Youtube video link: https://youtu.be/7OgdQCrSjDw?si=bxqLSOQDXkvRTvPa 
 
 ## 13. GitHub project file
 
