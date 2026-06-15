@@ -199,7 +199,7 @@ Youtube video link: https://youtu.be/7OgdQCrSjDw?si=bxqLSOQDXkvRTvPa
 
 ## 13. GitHub project file
 
-GitHub LiNK: 
+GitHub LiNK: https://github.com/kunwe/OPSC6311-PART-3-APP-BUDGETWISE- 
 PROJECT FILE REPO GITHUB LINK: https://github.com/kunwe/BudgetWise.git 
 ---
 
